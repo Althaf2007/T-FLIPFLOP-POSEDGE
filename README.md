@@ -72,7 +72,7 @@ RegisterNumber:24005994
 ![tt rtl](https://github.com/user-attachments/assets/54469fd7-b0fe-46a9-9a08-3aa8e5406bac)
 
 
-**TIMING DIGRAMS FOR FLIP FLOPS**
+**TIMING DIAGRAMS FOR FLIP FLOPS**
 
 ![tt ou](https://github.com/user-attachments/assets/d1c30a57-aace-4a9d-9a6c-71c5562937b7)
 
